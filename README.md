@@ -15,12 +15,12 @@ macOS version: macOS Monterey 12.1 (21C52)
 | Component | Specs |
 |------------|----------------------------------------|
 | **CPU**     | `Intel® Core™ i5-9600k` |   
-| **RAM**     | `32gb DDR4 2400MHZ`|   
+| **RAM**     | `8gb DDR4 2400MHZ`|   
 | **HDD**     | `Samsung EVO 970 NVMe SSD 256GB`|
 | **iGPU**    | `Intel® UHD Graphics 630`|
 | **Audio**   | `RRealtek ALC3234`|
 | **OS**      | `macOS Monterey 12.0 (21A5284e)`|
-| **Boot**    | `OpenCore 0.7.1`|
+| **Boot**    | `OpenCore 0.7.7`|
 
 
 #### Working: 
