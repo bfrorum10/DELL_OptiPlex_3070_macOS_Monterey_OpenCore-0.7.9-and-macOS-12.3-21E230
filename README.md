@@ -1,4 +1,4 @@
-# DELL-OptiPlex-3070-macOS Monterey 12.12
+# DELL-OptiPlex-3070-macOS Monterey 12.2
 
 This is the 100% working OpenCore EFI for Dell 3070 MFF with i5-9600k on macOS Monterey 12.2
  
