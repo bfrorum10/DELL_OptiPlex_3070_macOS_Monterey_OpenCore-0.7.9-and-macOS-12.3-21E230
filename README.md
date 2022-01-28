@@ -19,7 +19,7 @@ macOS version: macOS Monterey 12.2 (21D49)
 | **HDD**     | `Samsung EVO 970 NVMe SSD 256GB`|
 | **iGPU**    | `Intel® UHD Graphics 630`|
 | **Audio**   | `RRealtek ALC3234`|
-| **OS**      | `macOS Monterey 12.0 (21A5284e)`|
+| **OS**      | `macOS Monterey 12.2 (21D49)`|
 | **Boot**    | `OpenCore 0.7.7`|
 
 
