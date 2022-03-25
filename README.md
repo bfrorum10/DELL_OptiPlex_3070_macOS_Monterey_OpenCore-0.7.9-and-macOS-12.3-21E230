@@ -1,9 +1,9 @@
-# macOS  Monterey 12.3 on DELL-OptiPlex-3070
+# macOS  Monterey 12.3 (21E230) on DELL-OptiPlex-3070
 
-This is the 100% working OpenCore EFI for Dell 3070 MFF with i5-9600k on macOS Monterey 12.3
+This is the 100% working OpenCore EFI for Dell 3070 MFF with i5-9600k on macOS Monterey 12.3 (21E230)
  
 
-Dell OptiPlex 3070 with i5-9600k on macOS Monterey 12.3
+Dell OptiPlex 3070 with i5-9600k on macOS Monterey 12.3 (21E230)
 ============================================
 
 ![Ekran Resmi 2022-03-25 13 03 36](https://user-images.githubusercontent.com/68928938/160117667-2b9e7cad-6423-494b-aa53-57ed0075bed8.png)
