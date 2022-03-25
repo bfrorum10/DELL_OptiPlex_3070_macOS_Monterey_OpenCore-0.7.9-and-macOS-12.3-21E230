@@ -19,7 +19,7 @@ macOS version: macOS Monterey 12.3 (21E230)
 | **RAM**     | `8gb DDR4 2400MHZ`|   
 | **HDD**     | `Samsung EVO 970 NVMe SSD 256GB`|
 | **iGPU**    | `Intel® UHD Graphics 630`|
-| **Audio**   | `RRealtek ALC3234`|
+| **Audio**   | `Realtek ALC3234`|
 | **OS**      | `macOS Monterey 12.3 (21E230)`|
 | **Boot**    | `OpenCore 0.7.9`|
 
